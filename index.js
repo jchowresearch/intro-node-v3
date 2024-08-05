@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-import './src/commands.js'
+//! The above line only needs to be in the entry file
+import "./src/commands.js";
